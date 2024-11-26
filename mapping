@@ -1,0 +1,31 @@
+experiment - 1
+- pipe programs
+	
+experiment - 2
+- cpu load
+- shared memory
+	
+experiment - 3
+- udp
+- message passing
+
+experiment - 4
+- lamport + vector clock
+- lamport + ricart mutex
+
+experiment - 5
+- ds factorial socket
+- map reduce
+
+experiment - 6
+- echo client server
+- table
+- date-time server
+
+experiment - 7
+- tcp load
+- socket java
+
+experiment - 8
+- map reduce 
+- rpc file transfer
